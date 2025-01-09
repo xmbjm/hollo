@@ -1353,17 +1353,17 @@
       ]
     },
     
-    {
+  {
             "key": "皮皮影视",
             "name": "拾光☪皮皮虾",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.55.250.149:1314/api.php/app/"
+            "api": "csp_XBPQ",
+            "ext": {
+                "线路标题": "module-tab-value\">&&</span>",
+                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$1#电影$2#动漫番剧$3"
+            }
         },
-    
 
     {
       "key": "爱奇",
@@ -4085,17 +4085,7 @@
                 }
             }
         },
-        {
-            "name": "皮皮虾",
-            "type": "1",
-            "url": "http://45.207.215.101:5423/index.php?url=",
-            "ext": {
-                "flag": [
-                    "PPXLG",
-                    "皮皮虾4K"
-                ]
-            }
-        },
+      
         {
             "name": "上线",
             "type": 0,
